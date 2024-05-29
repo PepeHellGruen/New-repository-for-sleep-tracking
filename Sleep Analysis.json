@@ -1,0 +1,1199 @@
+[
+  {
+    "Date": "2023-11-30",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 278.45
+  },
+  {
+    "Date": "2023-12-01",
+    "AsleepCore": 124,
+    "AsleepDeep": 33.5,
+    "AsleepREM": 75.5,
+    "Unspecified": 0,
+    "isAwake": 2.5,
+    "InBed": 762.85
+  },
+  {
+    "Date": "2023-12-04",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 384.95
+  },
+  {
+    "Date": "2023-12-05",
+    "AsleepCore": 262,
+    "AsleepDeep": 35,
+    "AsleepREM": 95,
+    "Unspecified": 0,
+    "isAwake": 5.5,
+    "InBed": 794.6166667
+  },
+  {
+    "Date": "2023-12-06",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 456.2333333
+  },
+  {
+    "Date": "2023-12-07",
+    "AsleepCore": 169,
+    "AsleepDeep": 80,
+    "AsleepREM": 95,
+    "Unspecified": 0,
+    "isAwake": 4,
+    "InBed": 785.9666667
+  },
+  {
+    "Date": "2023-12-08",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 532.65
+  },
+  {
+    "Date": "2023-12-11",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2023-12-12",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 176.5,
+    "isAwake": 98,
+    "InBed": 629.2666667
+  },
+  {
+    "Date": "2023-12-13",
+    "AsleepCore": 163.5,
+    "AsleepDeep": 69,
+    "AsleepREM": 71,
+    "Unspecified": 0,
+    "isAwake": 140,
+    "InBed": 742.9
+  },
+  {
+    "Date": "2023-12-14",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 367.7333333
+  },
+  {
+    "Date": "2023-12-15",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2023-12-18",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 478.95
+  },
+  {
+    "Date": "2023-12-19",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 286.7666667
+  },
+  {
+    "Date": "2023-12-20",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 415.3666667
+  },
+  {
+    "Date": "2023-12-21",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 445.6333333
+  },
+  {
+    "Date": "2023-12-22",
+    "AsleepCore": 246,
+    "AsleepDeep": 60.5,
+    "AsleepREM": 109,
+    "Unspecified": 0,
+    "isAwake": 20.5,
+    "InBed": 754.65
+  },
+  {
+    "Date": "2023-12-25",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 274.9
+  },
+  {
+    "Date": "2023-12-26",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 418.8333333
+  },
+  {
+    "Date": "2023-12-27",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 348.5666667
+  },
+  {
+    "Date": "2023-12-28",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 297.75
+  },
+  {
+    "Date": "2023-12-29",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 478.6666667
+  },
+  {
+    "Date": "2024-01-01",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 438.4166667
+  },
+  {
+    "Date": "2024-01-02",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 484.2166667
+  },
+  {
+    "Date": "2024-01-03",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2024-01-04",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2024-01-05",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 407.45
+  },
+  {
+    "Date": "2024-01-08",
+    "AsleepCore": 335,
+    "AsleepDeep": 34,
+    "AsleepREM": 98.5,
+    "Unspecified": 0,
+    "isAwake": 67,
+    "InBed": 1007.5
+  },
+  {
+    "Date": "2024-01-09",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 480.7333333
+  },
+  {
+    "Date": "2024-01-10",
+    "AsleepCore": 211.5,
+    "AsleepDeep": 46,
+    "AsleepREM": 66.5,
+    "Unspecified": 0,
+    "isAwake": 21.5,
+    "InBed": 864
+  },
+  {
+    "Date": "2024-01-11",
+    "AsleepCore": 245,
+    "AsleepDeep": 61.5,
+    "AsleepREM": 60.5,
+    "Unspecified": 0,
+    "isAwake": 20,
+    "InBed": 869.4
+  },
+  {
+    "Date": "2024-01-12",
+    "AsleepCore": 255.5,
+    "AsleepDeep": 57.5,
+    "AsleepREM": 129,
+    "Unspecified": 0,
+    "isAwake": 2,
+    "InBed": 982
+  },
+  {
+    "Date": "2024-01-15",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 474.1
+  },
+  {
+    "Date": "2024-01-16",
+    "AsleepCore": 232,
+    "AsleepDeep": 52.5,
+    "AsleepREM": 104,
+    "Unspecified": 0,
+    "isAwake": 6,
+    "InBed": 692.5
+  },
+  {
+    "Date": "2024-01-17",
+    "AsleepCore": 265.5,
+    "AsleepDeep": 55.5,
+    "AsleepREM": 94.5,
+    "Unspecified": 0,
+    "isAwake": 0.5,
+    "InBed": 859.4666667
+  },
+  {
+    "Date": "2024-01-18",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2024-01-19",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 422.2333333
+  },
+  {
+    "Date": "2024-01-22",
+    "AsleepCore": 313.5,
+    "AsleepDeep": 45.5,
+    "AsleepREM": 103.5,
+    "Unspecified": 0,
+    "isAwake": 5,
+    "InBed": 941.5166667
+  },
+  {
+    "Date": "2024-01-23",
+    "AsleepCore": 322.5,
+    "AsleepDeep": 36.5,
+    "AsleepREM": 81.5,
+    "Unspecified": 0,
+    "isAwake": 3.5,
+    "InBed": 830.85
+  },
+  {
+    "Date": "2024-01-24",
+    "AsleepCore": 318.5,
+    "AsleepDeep": 39,
+    "AsleepREM": 104,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 530.5666667
+  },
+  {
+    "Date": "2024-01-25",
+    "AsleepCore": 222.5,
+    "AsleepDeep": 78.5,
+    "AsleepREM": 74.5,
+    "Unspecified": 0,
+    "isAwake": 186.5,
+    "InBed": 791.8166667
+  },
+  {
+    "Date": "2024-01-26",
+    "AsleepCore": 153,
+    "AsleepDeep": 81,
+    "AsleepREM": 97,
+    "Unspecified": 0,
+    "isAwake": 0.5,
+    "InBed": 647.65
+  },
+  {
+    "Date": "2024-01-28",
+    "AsleepCore": 265,
+    "AsleepDeep": 73,
+    "AsleepREM": 105,
+    "Unspecified": 0,
+    "isAwake": 2.5,
+    "InBed": 443
+  },
+  {
+    "Date": "2024-01-29",
+    "AsleepCore": 260.5,
+    "AsleepDeep": 70,
+    "AsleepREM": 100.5,
+    "Unspecified": 0,
+    "isAwake": 11,
+    "InBed": 530.45
+  },
+  {
+    "Date": "2024-01-30",
+    "AsleepCore": 256.5,
+    "AsleepDeep": 64.5,
+    "AsleepREM": 133.5,
+    "Unspecified": 0,
+    "isAwake": 4.5,
+    "InBed": 873.1
+  },
+  {
+    "Date": "2024-01-31",
+    "AsleepCore": 365,
+    "AsleepDeep": 42,
+    "AsleepREM": 105.5,
+    "Unspecified": 0,
+    "isAwake": 1.5,
+    "InBed": 948.4166667
+  },
+  {
+    "Date": "2024-02-01",
+    "AsleepCore": 359,
+    "AsleepDeep": 42.5,
+    "AsleepREM": 147.5,
+    "Unspecified": 0,
+    "isAwake": 1.5,
+    "InBed": 1062.633333
+  },
+  {
+    "Date": "2024-02-02",
+    "AsleepCore": 289,
+    "AsleepDeep": 45.5,
+    "AsleepREM": 78.5,
+    "Unspecified": 0,
+    "isAwake": 4.5,
+    "InBed": 832.45
+  },
+  {
+    "Date": "2024-02-05",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 510.5833333
+  },
+  {
+    "Date": "2024-02-06",
+    "AsleepCore": 177,
+    "AsleepDeep": 64.5,
+    "AsleepREM": 109,
+    "Unspecified": 0,
+    "isAwake": 44,
+    "InBed": 735.9166667
+  },
+  {
+    "Date": "2024-02-07",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 457.4333333
+  },
+  {
+    "Date": "2024-02-08",
+    "AsleepCore": 267.5,
+    "AsleepDeep": 39,
+    "AsleepREM": 77,
+    "Unspecified": 0,
+    "isAwake": 120.5,
+    "InBed": 773.7
+  },
+  {
+    "Date": "2024-02-09",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 194.9666667
+  },
+  {
+    "Date": "2024-02-12",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 262.6833333
+  },
+  {
+    "Date": "2024-02-13",
+    "AsleepCore": 249,
+    "AsleepDeep": 50.5,
+    "AsleepREM": 82.5,
+    "Unspecified": 0,
+    "isAwake": 41,
+    "InBed": 909.45
+  },
+  {
+    "Date": "2024-02-14",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 533.9666667
+  },
+  {
+    "Date": "2024-02-15",
+    "AsleepCore": 322.5,
+    "AsleepDeep": 52,
+    "AsleepREM": 93,
+    "Unspecified": 0,
+    "isAwake": 38,
+    "InBed": 1000.083333
+  },
+  {
+    "Date": "2024-02-16",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 351.0833333
+  },
+  {
+    "Date": "2024-02-19",
+    "AsleepCore": 280.5,
+    "AsleepDeep": 62,
+    "AsleepREM": 97.5,
+    "Unspecified": 0,
+    "isAwake": 7.5,
+    "InBed": 873.65
+  },
+  {
+    "Date": "2024-02-20",
+    "AsleepCore": 234,
+    "AsleepDeep": 56,
+    "AsleepREM": 119.5,
+    "Unspecified": 0,
+    "isAwake": 7.5,
+    "InBed": 840.3666667
+  },
+  {
+    "Date": "2024-02-21",
+    "AsleepCore": 257,
+    "AsleepDeep": 31.5,
+    "AsleepREM": 107.5,
+    "Unspecified": 0,
+    "isAwake": 147,
+    "InBed": 858.2166667
+  },
+  {
+    "Date": "2024-02-22",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 404.5166667
+  },
+  {
+    "Date": "2024-02-23",
+    "AsleepCore": 152.5,
+    "AsleepDeep": 35.5,
+    "AsleepREM": 66.5,
+    "Unspecified": 0,
+    "isAwake": 15.5,
+    "InBed": 576.55
+  },
+  {
+    "Date": "2024-02-26",
+    "AsleepCore": 150,
+    "AsleepDeep": 58,
+    "AsleepREM": 109.5,
+    "Unspecified": 0,
+    "isAwake": 9,
+    "InBed": 612.9
+  },
+  {
+    "Date": "2024-02-27",
+    "AsleepCore": 253.5,
+    "AsleepDeep": 64.5,
+    "AsleepREM": 117,
+    "Unspecified": 0,
+    "isAwake": 6.5,
+    "InBed": 833.6
+  },
+  {
+    "Date": "2024-02-28",
+    "AsleepCore": 351,
+    "AsleepDeep": 73.5,
+    "AsleepREM": 160,
+    "Unspecified": 0,
+    "isAwake": 31.5,
+    "InBed": 991.4666667
+  },
+  {
+    "Date": "2024-02-29",
+    "AsleepCore": 273.5,
+    "AsleepDeep": 65,
+    "AsleepREM": 98.5,
+    "Unspecified": 0,
+    "isAwake": 43,
+    "InBed": 865.7666667
+  },
+  {
+    "Date": "2024-03-01",
+    "AsleepCore": 166.5,
+    "AsleepDeep": 53,
+    "AsleepREM": 39,
+    "Unspecified": 0,
+    "isAwake": 70,
+    "InBed": 582.8666667
+  },
+  {
+    "Date": "2024-03-04",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 535.75
+  },
+  {
+    "Date": "2024-03-05",
+    "AsleepCore": 342.5,
+    "AsleepDeep": 85,
+    "AsleepREM": 142.5,
+    "Unspecified": 0,
+    "isAwake": 6,
+    "InBed": 1057.333333
+  },
+  {
+    "Date": "2024-03-06",
+    "AsleepCore": 303,
+    "AsleepDeep": 47,
+    "AsleepREM": 90.5,
+    "Unspecified": 0,
+    "isAwake": 75,
+    "InBed": 872.8166667
+  },
+  {
+    "Date": "2024-03-07",
+    "AsleepCore": 251,
+    "AsleepDeep": 66,
+    "AsleepREM": 111,
+    "Unspecified": 0,
+    "isAwake": 185.5,
+    "InBed": 919.3666667
+  },
+  {
+    "Date": "2024-03-08",
+    "AsleepCore": 201,
+    "AsleepDeep": 56,
+    "AsleepREM": 87.5,
+    "Unspecified": 0,
+    "isAwake": 8,
+    "InBed": 714.55
+  },
+  {
+    "Date": "2024-03-11",
+    "AsleepCore": 235.5,
+    "AsleepDeep": 48.5,
+    "AsleepREM": 90,
+    "Unspecified": 0,
+    "isAwake": 3,
+    "InBed": 791.15
+  },
+  {
+    "Date": "2024-03-12",
+    "AsleepCore": 344.5,
+    "AsleepDeep": 40.5,
+    "AsleepREM": 126,
+    "Unspecified": 0,
+    "isAwake": 108.5,
+    "InBed": 950.0333333
+  },
+  {
+    "Date": "2024-03-13",
+    "AsleepCore": 308.5,
+    "AsleepDeep": 60.5,
+    "AsleepREM": 97.5,
+    "Unspecified": 0,
+    "isAwake": 25.5,
+    "InBed": 808.2333333
+  },
+  {
+    "Date": "2024-03-14",
+    "AsleepCore": 249,
+    "AsleepDeep": 37.5,
+    "AsleepREM": 122.5,
+    "Unspecified": 0,
+    "isAwake": 48,
+    "InBed": 666.9166667
+  },
+  {
+    "Date": "2024-03-15",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2024-03-18",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540.0333333
+  },
+  {
+    "Date": "2024-03-19",
+    "AsleepCore": 260,
+    "AsleepDeep": 68,
+    "AsleepREM": 107.5,
+    "Unspecified": 0,
+    "isAwake": 194.5,
+    "InBed": 975.0333333
+  },
+  {
+    "Date": "2024-03-20",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2024-03-21",
+    "AsleepCore": 221.5,
+    "AsleepDeep": 55,
+    "AsleepREM": 125,
+    "Unspecified": 0,
+    "isAwake": 1.5,
+    "InBed": 941.5
+  },
+  {
+    "Date": "2024-03-22",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 525.8833333
+  },
+  {
+    "Date": "2024-03-25",
+    "AsleepCore": 273,
+    "AsleepDeep": 62,
+    "AsleepREM": 107,
+    "Unspecified": 0,
+    "isAwake": 6,
+    "InBed": 756.7333333
+  },
+  {
+    "Date": "2024-03-26",
+    "AsleepCore": 179,
+    "AsleepDeep": 39.5,
+    "AsleepREM": 88,
+    "Unspecified": 0,
+    "isAwake": 4,
+    "InBed": 775.6833333
+  },
+  {
+    "Date": "2024-03-27",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 361.2666667
+  },
+  {
+    "Date": "2024-03-28",
+    "AsleepCore": 226,
+    "AsleepDeep": 84.5,
+    "AsleepREM": 131.5,
+    "Unspecified": 0,
+    "isAwake": 110,
+    "InBed": 925.9333333
+  },
+  {
+    "Date": "2024-03-29",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 540
+  },
+  {
+    "Date": "2024-03-31",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 184.55
+  },
+  {
+    "Date": "2024-04-01",
+    "AsleepCore": 109.5,
+    "AsleepDeep": 57,
+    "AsleepREM": 53.5,
+    "Unspecified": 0,
+    "isAwake": 0.5,
+    "InBed": 503.65
+  },
+  {
+    "Date": "2024-04-02",
+    "AsleepCore": 240.5,
+    "AsleepDeep": 60,
+    "AsleepREM": 111.5,
+    "Unspecified": 0,
+    "isAwake": 6.5,
+    "InBed": 1271.5
+  },
+  {
+    "Date": "2024-04-03",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 65.58333333
+  },
+  {
+    "Date": "2024-04-04",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 855.2833333
+  },
+  {
+    "Date": "2024-04-05",
+    "AsleepCore": 273.5,
+    "AsleepDeep": 60,
+    "AsleepREM": 156,
+    "Unspecified": 0,
+    "isAwake": 5.5,
+    "InBed": 489.5
+  },
+  {
+    "Date": "2024-04-08",
+    "AsleepCore": 239.5,
+    "AsleepDeep": 56,
+    "AsleepREM": 113.5,
+    "Unspecified": 0,
+    "isAwake": 18.5,
+    "InBed": 1310.216667
+  },
+  {
+    "Date": "2024-04-09",
+    "AsleepCore": 251.5,
+    "AsleepDeep": 56,
+    "AsleepREM": 74.5,
+    "Unspecified": 0,
+    "isAwake": 9.5,
+    "InBed": 382
+  },
+  {
+    "Date": "2024-04-10",
+    "AsleepCore": 246,
+    "AsleepDeep": 47,
+    "AsleepREM": 85,
+    "Unspecified": 0,
+    "isAwake": 3,
+    "InBed": 1163.883333
+  },
+  {
+    "Date": "2024-04-12",
+    "AsleepCore": 224.5,
+    "AsleepDeep": 65.5,
+    "AsleepREM": 108,
+    "Unspecified": 0,
+    "isAwake": 6,
+    "InBed": 797.15
+  },
+  {
+    "Date": "2024-04-15",
+    "AsleepCore": 246.5,
+    "AsleepDeep": 64,
+    "AsleepREM": 93,
+    "Unspecified": 0,
+    "isAwake": 5.5,
+    "InBed": 806.1333333
+  },
+  {
+    "Date": "2024-04-16",
+    "AsleepCore": 197,
+    "AsleepDeep": 60,
+    "AsleepREM": 55,
+    "Unspecified": 0,
+    "isAwake": 24,
+    "InBed": 1079.45
+  },
+  {
+    "Date": "2024-04-17",
+    "AsleepCore": 21,
+    "AsleepDeep": 36.5,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0.5,
+    "InBed": 469.95
+  },
+  {
+    "Date": "2024-04-18",
+    "AsleepCore": 287.5,
+    "AsleepDeep": 17.5,
+    "AsleepREM": 78,
+    "Unspecified": 0,
+    "isAwake": 43.5,
+    "InBed": 460.4166667
+  },
+  {
+    "Date": "2024-04-19",
+    "AsleepCore": 142,
+    "AsleepDeep": 53,
+    "AsleepREM": 47.5,
+    "Unspecified": 0,
+    "isAwake": 4,
+    "InBed": 543.15
+  },
+  {
+    "Date": "2024-04-21",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 283.8833333
+  },
+  {
+    "Date": "2024-04-22",
+    "AsleepCore": 20,
+    "AsleepDeep": 39.5,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 821.2333333
+  },
+  {
+    "Date": "2024-04-23",
+    "AsleepCore": 210.5,
+    "AsleepDeep": 44.5,
+    "AsleepREM": 100.5,
+    "Unspecified": 0,
+    "isAwake": 13.5,
+    "InBed": 309
+  },
+  {
+    "Date": "2024-04-24",
+    "AsleepCore": 312.5,
+    "AsleepDeep": 58.5,
+    "AsleepREM": 104,
+    "Unspecified": 0,
+    "isAwake": 12.5,
+    "InBed": 843.95
+  },
+  {
+    "Date": "2024-04-25",
+    "AsleepCore": 20,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 1.5,
+    "InBed": 758.4166667
+  },
+  {
+    "Date": "2024-04-26",
+    "AsleepCore": 307,
+    "AsleepDeep": 47,
+    "AsleepREM": 128.5,
+    "Unspecified": 0,
+    "isAwake": 53.5,
+    "InBed": 577.8333333
+  },
+  {
+    "Date": "2024-04-28",
+    "AsleepCore": 14,
+    "AsleepDeep": 24,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 525.55
+  },
+  {
+    "Date": "2024-04-29",
+    "AsleepCore": 259,
+    "AsleepDeep": 29.5,
+    "AsleepREM": 115.5,
+    "Unspecified": 0,
+    "isAwake": 15.5,
+    "InBed": 437.3666667
+  },
+  {
+    "Date": "2024-04-30",
+    "AsleepCore": 286,
+    "AsleepDeep": 60,
+    "AsleepREM": 111.5,
+    "Unspecified": 0,
+    "isAwake": 13.5,
+    "InBed": 915.6166667
+  },
+  {
+    "Date": "2024-05-01",
+    "AsleepCore": 245.5,
+    "AsleepDeep": 59,
+    "AsleepREM": 88,
+    "Unspecified": 0,
+    "isAwake": 4,
+    "InBed": 1299.883333
+  },
+  {
+    "Date": "2024-05-02",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 493.3333333
+  },
+  {
+    "Date": "2024-05-03",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 0.05
+  },
+  {
+    "Date": "2024-05-05",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 386.8333333
+  },
+  {
+    "Date": "2024-05-06",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 434.1833333
+  },
+  {
+    "Date": "2024-05-07",
+    "AsleepCore": 355.5,
+    "AsleepDeep": 66,
+    "AsleepREM": 143.5,
+    "Unspecified": 0,
+    "isAwake": 26,
+    "InBed": 660.8833333
+  },
+  {
+    "Date": "2024-05-08",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 447.2166667
+  },
+  {
+    "Date": "2024-05-09",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 374.7
+  },
+  {
+    "Date": "2024-05-10",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 346.5333333
+  },
+  {
+    "Date": "2024-05-13",
+    "AsleepCore": 205,
+    "AsleepDeep": 40,
+    "AsleepREM": 96.5,
+    "Unspecified": 0,
+    "isAwake": 18,
+    "InBed": 714.9
+  },
+  {
+    "Date": "2024-05-14",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 409.7333333
+  },
+  {
+    "Date": "2024-05-15",
+    "AsleepCore": 227,
+    "AsleepDeep": 42,
+    "AsleepREM": 101,
+    "Unspecified": 0,
+    "isAwake": 10,
+    "InBed": 756.3666667
+  },
+  {
+    "Date": "2024-05-16",
+    "AsleepCore": 256.5,
+    "AsleepDeep": 73.5,
+    "AsleepREM": 142,
+    "Unspecified": 0,
+    "isAwake": 15.5,
+    "InBed": 1408.3
+  },
+  {
+    "Date": "2024-05-17",
+    "AsleepCore": 243.5,
+    "AsleepDeep": 56.5,
+    "AsleepREM": 102,
+    "Unspecified": 0,
+    "isAwake": 3,
+    "InBed": 402
+  },
+  {
+    "Date": "2024-05-20",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 845.1833333
+  },
+  {
+    "Date": "2024-05-21",
+    "AsleepCore": 136.5,
+    "AsleepDeep": 69.5,
+    "AsleepREM": 78,
+    "Unspecified": 0,
+    "isAwake": 1,
+    "InBed": 284
+  },
+  {
+    "Date": "2024-05-22",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 259.4166667
+  },
+  {
+    "Date": "2024-05-23",
+    "AsleepCore": 0,
+    "AsleepDeep": 0,
+    "AsleepREM": 0,
+    "Unspecified": 159.5,
+    "isAwake": 5,
+    "InBed": 923.0333333
+  },
+  {
+    "Date": "2024-05-24",
+    "AsleepCore": 166.5,
+    "AsleepDeep": 35,
+    "AsleepREM": 89.5,
+    "Unspecified": 0,
+    "isAwake": 0,
+    "InBed": 291
+  },
+  {
+    "Date": "2024-05-27",
+    "AsleepCore": 162.5,
+    "AsleepDeep": 62,
+    "AsleepREM": 90,
+    "Unspecified": 0,
+    "isAwake": 1,
+    "InBed": 656.45
+  },
+  {
+    "Date": "2024-05-28",
+    "AsleepCore": 129,
+    "AsleepDeep": 65,
+    "AsleepREM": 65.5,
+    "Unspecified": 0,
+    "isAwake": 25.5,
+    "InBed": 1062.283333
+  }
+]
